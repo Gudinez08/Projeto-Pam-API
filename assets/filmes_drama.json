@@ -1,0 +1,39 @@
+[
+    {
+      "titulo": "Oppenheimer",
+      "ano": 2023,
+      "descricao": "Christopher Nolan examines the dark underbelly of ambition and hubris by bringing the life of J. Robert Oppenheimer, the theoretical physicist instrumental to the invention of the atomic bomb, to the big screen. Cillian Murphy delivers an Oscar-winning performance as the titular scientist, starring opposite a bevy of other A-listers like Florence Pugh, Emily Blunt, and Robert Downey Jr.",
+      "diretor" :  "Christopher Nolan"
+    },
+    {
+      "titulo": "Malcolm X",
+      "ano": 1992,
+      "descricao": "There's nothing Denzel does that we don't watch; Equalizer 3? Sure, why not? But in our honest opinion, Washington's embodiment of Malcolm X in Spike Lee's 1992 joint is tippety-tops. A monumental tour-de-force that sheds light on the civil rights icon's life and transformation from small-time gangster to assassinated leader, the film is a blaze of truth, empowerment, and peak-form Denzel.",
+      "diretor": " Spike Lee"
+    },
+    {
+      "titulo": "12 years a Slave",
+      "ano": 2013,
+      "descricao": "The incredible true story of one man's survival, this film follows a free Black man from upstate New York who is kidnapped and sold into the slave trade in the Antebellum South. Chiwetel Ejiofor plays Solomon. Already enslaved when the story begins, he relives his past through a series of flashbacks.",
+      "diretor" : " Steve McQueen"
+    },
+    {
+      "titulo": "Eternal Sunshine of the Spotless Mind",
+      "ano": 2004,
+      "descricao": "Clementine (Kate Winslet) undergoes a procedure to erase the memories of her ex-boyfriend Joel (Jim Carrey), with whom she’s experiencing a painful breakup. He undergoes the procedure, too, in order to forget the woman he once loved. Eternal Sunshine of the Spotless Mind is a beautifully written, award-winning story about memory, romance, and loss.",
+      "diretor" : "Michel Gondry"
+    },
+    {
+      "titulo": "Her",
+      "ano": 2013,
+      "descricao": "In the near future, an introverted, depressed writer (Joaquin Phoenix) buys an artificially intelligent operating system (voiced by Scarlett Johansson) with which he develops an intimate and ultimately romantic bond. It could have had comedic undertones, but instead, director Spike Jonze presents this original story as a touching exploration of loneliness and isolation in the age of technology.",
+      "diretor": "Spike Jonze"
+    },
+    {
+      "titulo": "Jaws",
+      "ano": 1975,
+      "descricao": "A killer shark threatens the vacationing population of Amity Island, and the most iconic use of F and F sharp in the history of musical scores signals he’s on the hunt again. Jaws, directed by Steven Spielberg, is a classic, but it demonized sharks so powerfully that Peter Benchley, the book’s author and co-writer of the film’s screenplay, wished he’d never written it. “No one appreciates how vulnerable they are to destruction,” he later said.",
+      "diretor": "Steven Spielberg"
+    }
+  ]
+  
