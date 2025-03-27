@@ -1,3 +1,4 @@
-# api_filmes
+Apresentando dados do Json no Main Dart
 
-A new Flutter project.
+Alunos: Leonardo e Pedro Almeida
+Turma: 3DS
