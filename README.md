@@ -1,4 +1,8 @@
-Apresentando dados sobre filmes de drama do Json no Main Dart
+Nome do projeto: DRAMA BOX
 
 Alunos: Leonardo e Pedro Almeida
-Turma: 3DS
+
+Apresentando dados sobre filmes de drama do Json na tela principal a partir de uma lista
+
+
+
